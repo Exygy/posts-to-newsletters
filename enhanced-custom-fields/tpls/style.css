@@ -1,0 +1,30 @@
+.cl { height: 0; line-height: 0; font-size: 0; clear: both; }
+.ecf-field-container { margin-bottom: 4px; }
+.ecf-label {
+	width: 150px;
+	text-align: right; 
+	vertical-align: top;
+	padding: 5px 10px 0 10px;
+}
+
+.ecf-ecf_fieldtext, .ecf-ecf_fieldtextarea {
+	width: 100%;
+}
+.ecf-view_image {
+	display: block;
+	height: 100;
+	border: 1px solid #DFDFDF;
+	padding: 1px;
+	margin-top: 5px;
+}
+.ecf-view_file {
+	padding-left: 10px;
+	font-weight: bold;
+}
+.ecf-description {
+	color: #666666;
+	font-size: 11px;
+}
+.ecf-action { margin-left: 10px; text-decoration: none; }
+.ecf-action-cell { width: 140px; vertical-align: top; padding-top: 4px }
+.ecf-src-row .ecf-description { display: none; }
